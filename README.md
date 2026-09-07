@@ -49,11 +49,11 @@ Follow these simple steps to get a local copy up and running:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Garuda-Package/project_html/
    ```
 2. **Navigate into the project directory**
    ```bash
-   cd your-repo-name
+   cd project_html
    ```
 3. **Launch the application**
    * Double-click the `index.html` file in your local file explorer, or
@@ -78,4 +78,6 @@ This project is licensed under the **GPL-3.0 Licence** - see the [LICENSE](LICEN
 
 ---
 
-<p align="center">Crafted with ❤️ by <a href="https://github.com">[All My Discord Member]</a></p>
+<p align="center">Crafted with ❤️ by <a href="https://github.com">[All My Discord Member]</a></p> And.. i have one message for who fork this repository "you can be a developer if you make it and study it so dont give up. <p>
+
+</p>
