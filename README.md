@@ -6,7 +6,7 @@
 
 [Write a short 1-2 sentence description of your interactive HTML project here. Example: A dynamic and interactive web dashboard built to track daily expenses with live data visualization.]
 
-✨ **[Live Demo Available Here](https://netlify.app or github-pages)**
+✨ **[Live Demo Available Here](github-pages)**
 
 ---
 
